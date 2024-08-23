@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Ggs!
 
-Enthusiastic about web development especially backend-related works and System Administrator.
+Enthusiastic about Web Development especially Backend-related works and System Administrator.
 
 #### 🛠 Stacks
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
